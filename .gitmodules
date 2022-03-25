@@ -1,0 +1,3 @@
+[submodule "dhrystone"]
+	path = dhrystone
+	url = git@github.com:damon-liush/dhrystone.git
